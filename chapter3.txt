@@ -1,1 +1,1 @@
-this is chapter 3
+This is chapter 3 of new-branch3.
